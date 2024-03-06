@@ -4,7 +4,7 @@
   
 </p>
 <br>
-<a href="https://thiagoads11.github.io/Projeto-Grand-theft-Auto-v/" target="_blank">🔗 [clique aqui para acessar ao projeto]</a> 
+<a href="https://thiagoads11.github.io/Projeto-Grand-Theft-Auto-v/" target="_blank">🔗 [clique aqui para acessar ao projeto]</a> 
 <br>
 
 ##  Tecnologias
